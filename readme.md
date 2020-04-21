@@ -1,0 +1,1 @@
+The worst part of this was the aligning, everything else i thought was pretty self explanatory but moving everything around was alot easier with flexbox.
