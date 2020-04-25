@@ -23,6 +23,7 @@ input {
     margin: auto;
     border-radius: 10px;
     padding: 3px;
+    border: 1px;
 }
 #tagline {
     display: flex;
